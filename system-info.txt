@@ -1,0 +1,6 @@
+
+Platform: win32
+Arch: x64
+Number of CPUs: 16
+Total Memory: 15.42 GB
+Free Memory: 5.88 GB
